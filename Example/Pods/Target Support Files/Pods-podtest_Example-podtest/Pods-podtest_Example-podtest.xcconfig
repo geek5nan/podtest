@@ -1,0 +1,1 @@
+PODS_PODTEST_EXAMPLE_PODTEST_OTHER_LDFLAGS = -framework "MapKit" -framework "UIKit"
